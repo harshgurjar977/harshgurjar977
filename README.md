@@ -1,3 +1,4 @@
+![logo](https://github.com/harshgurjar977/harshgurjar977/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Gurjar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
